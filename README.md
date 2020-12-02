@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong><i class="fab fa-python"></i>Python3</strong>
+  🦄 Linguagens: <i class="fab fa-python"></i>Python3
 </p>
 
 <p align="left">
