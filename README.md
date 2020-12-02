@@ -18,7 +18,8 @@
 </p>
 
 <p align="left">
-  <a href=mailto:<Fábio Vitor>fabvitor2010@gmail.com?subject="link HTML">alt="Gmail">
+mailto:test@example.com?subject=subject&body=body
+  <a href="mailto:<Fábio Vitor>fabvitor2010@gmail.com?subject=subject&body=body" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a href="#" alt="Linkedin">
