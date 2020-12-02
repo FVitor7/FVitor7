@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python3</strong>
+  🦄 Linguagens: <strong>Python3</strong>
 </p>
 
 <p align="left">
