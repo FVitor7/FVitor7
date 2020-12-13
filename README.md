@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os meus 13 anos. 
+  Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os meus 16 anos. 
 </p>
 
 <p align="left">
