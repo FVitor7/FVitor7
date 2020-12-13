@@ -17,7 +17,7 @@
 </p>
 
 <p align="left">
-  💌Se deseja mais informações ou se busca alguém disposto a solucionar problemas: ⤵️
+  💌Contato: ⤵️
 </p>
 
 <p align="left">
