@@ -6,7 +6,10 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript</strong>
-  Mas durante o meu processo de aprendizagem, realizei projetos em Java e C#
+
+<p align="left">
+  <strong>Durante o meu processo de aprendizagem, realizei projetos em Java e C#</strong>
+  
 </p>
 
 <p align="left">
