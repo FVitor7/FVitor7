@@ -5,10 +5,10 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Python3 & JavaScript</strong>
+  🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
 
 <p align="left">
-  <strong>Durante o meu processo de aprendizagem, realizei projetos em Java e C#</strong>
+  Durante o meu processo de aprendizagem, realizei projetos em Java e C#.
   
 </p>
 
