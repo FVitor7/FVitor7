@@ -6,8 +6,6 @@
   Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os 16 anos. 
 </p>
 
-![FVitor7' stats](https://github-readme-stats.vercel.app/api?username=fvitor7&show_icons=true&theme=dark&hide=issues,stars) 
-
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
@@ -41,3 +39,5 @@
   <a href="https://www.instagram.com/f_vitor7" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+![FVitor7' stats](https://github-readme-stats.vercel.app/api?username=fvitor7&show_icons=true&theme=dark&hide=issues,stars) 
