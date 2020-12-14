@@ -9,9 +9,8 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
-  - :wrench: Tecnologias: Flask, Node.JS, SQL, HTML, CSS, Javascript & ReactJS
-  
 </p>
+- :wrench: Tecnologias: Flask, Node.JS, SQL, HTML, CSS, Javascript & ReactJS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
 
