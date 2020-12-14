@@ -10,6 +10,7 @@
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
 </p>
+<br>
 - :wrench: Tecnologias: Flask, Node.JS, SQL, HTML, CSS, Javascript & ReactJS
 
 
