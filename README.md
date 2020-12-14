@@ -11,9 +11,9 @@
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
   
 </p>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
 
 <p align="left">
   💼 Ferramentas: <strong>VSCode & Pycharm</strong>
