@@ -7,13 +7,11 @@
 </p>
 
 ![FVitor7' stats](https://github-readme-stats.vercel.app/api?username=fvitor7&show_icons=true&theme=dark&hide=issues,stars) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
+
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
-
-<p align="left">
-  Durante o meu processo de aprendizagem, realizei projetos em Java e C#.
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
   
 </p>
 
