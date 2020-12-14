@@ -4,8 +4,8 @@
   Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os 16 anos. 
 </p>
 
-<br>
-![FVitor7's github stats](https://github-readme-stats.vercel.app/api?username=fvitor7&show_icons=true&theme=dark&hide=issues,stars) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
+![FVitor7' stats](https://github-readme-stats.vercel.app/api?username=fvitor7&show_icons=true&theme=dark&hide=issues,stars) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fvitor7&theme=dark&layout=compact)
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
