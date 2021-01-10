@@ -14,9 +14,9 @@
 - :wrench: Tecnologias: Flask, Node.JS, HTML, CSS, Javascript, ReactJS, MongoDB & SQL.
 <br>
 
-<p align="left">
-  💌Contato: ⤵️
-</p>
+
+## Follow me and Contact:
+
 
 <p align="left">
 
