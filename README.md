@@ -59,7 +59,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-### Total Visitors
+## Total Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
