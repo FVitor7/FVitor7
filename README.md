@@ -6,8 +6,9 @@
   Hi! My name is Fábio Vitor, I'm 23 years old and I've been studying programming since I was 16 years.
 </p>
 
-<br>
-<br>
+<p align="left">
+  💼 Tools: <strong>Visual Studio Code, Pycharm and PhotoShop.</strong>
+</p>
 
 ## Follow me and Contact:
 
