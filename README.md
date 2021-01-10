@@ -7,7 +7,7 @@
 </p>
 
 <p align="left">
-  💼 Tools: <strong>Visual Studio Code, Pycharm and PhotoShop.</strong>
+  💼 Tools: <strong>Visual Studio Code, PyCharm and PhotoShop.</strong>
 </p>
 
 ## Follow me and Contact:
