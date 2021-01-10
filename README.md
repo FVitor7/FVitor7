@@ -59,7 +59,7 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![SQL](https://img.shields.io/badge/-Sql-black?style=flat-square&logo=MySQL)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 
 ## Total Visitors
 
