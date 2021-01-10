@@ -6,6 +6,8 @@
   Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os 16 anos. 
 </p>
 
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
+
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
@@ -13,10 +15,6 @@
 
 - :wrench: Tecnologias: Flask, Node.JS, HTML, CSS, Javascript, ReactJS, MongoDB & SQL.
 <br>
-
-<p align="left">
-  💼 Ferramentas: <strong>VSCode & Pycharm</strong>
-</p>
 
 <p align="left">
   💌Contato: ⤵️
