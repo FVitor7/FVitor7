@@ -7,14 +7,6 @@
 </p>
 
 
-<p align="left">
-  🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
-</p>
-
-- :wrench: Tecnologias: Flask, Node.JS, HTML, CSS, Javascript, ReactJS, MongoDB & SQL.
-<br>
-
-
 ## Follow me and Contact:
 
 
