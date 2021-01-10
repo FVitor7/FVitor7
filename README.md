@@ -1,6 +1,6 @@
 # :octocat: Fábio Vitor
 
-<img src="http://www.data-analysts.org/uploadfile/image/20180826/20180826060211_29442.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Dev">
+<img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Dev">
 
 <p align="left"> 
   Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os 16 anos. 
