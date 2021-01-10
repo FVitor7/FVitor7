@@ -6,8 +6,6 @@
   Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os 16 anos. 
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jumaschion.jumaschion)
-
 
 <p align="left">
   🦄 Linguagens: <strong>Python3 & JavaScript.</strong>
@@ -58,5 +56,8 @@
 ![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
 
