@@ -1,6 +1,6 @@
 # :octocat: Fábio Vitor
 
-<img src="https://physicsgurukul.files.wordpress.com/2019/02/character-1.gif" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Dev">
+<img src="https://camo.githubusercontent.com/c7165bc7d83b8b2834e9ae6fa50deafd15978958b0cbd4d00cbc77df90f0f55a/687474703a2f2f7777772e646174612d616e616c797374732e6f72672f75706c6f616466696c652f696d6167652f32303138303832362f32303138303832363036303231315f32393434322e676966" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Dev">
 
 <p align="left"> 
   Olá! Meu nome é Fábio Vitor, tenho 23 anos e estudo programação desde os 16 anos. 
