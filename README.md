@@ -52,7 +52,7 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-black?style=flat-square&logo=bootstrap5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 <!--![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)-->
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
