@@ -45,6 +45,7 @@
 ## Tech Skills
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
