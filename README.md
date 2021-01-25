@@ -40,7 +40,6 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=24.5)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=6)](https://github.com/FVitor7/Fvitor7)
-[![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
 
 
 ## Tech Skills
@@ -62,6 +61,11 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)
 ![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
+
+
+## GitHub Trophies
+
+[![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
 
 ## Total Visitors
 
