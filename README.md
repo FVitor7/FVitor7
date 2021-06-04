@@ -26,7 +26,9 @@
 
   <a href="https://api.whatsapp.com/send?phone=5575992392907&text=Contato%20atrav%C3%A9s%20do%20github" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-black?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-
+  <a href="https://t.me/f_vitor7" target="_blank">
+        <img src="https://img.shields.io/badge/-Telegram-2CA5E0?logo=telegram&style=for-the-badge&logoColor=white" alt="Bradge Telegram" />
+    </a>
   <a href="https://www.fb.com/fabiov7" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
 
