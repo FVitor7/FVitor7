@@ -37,6 +37,14 @@
   <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
+<p align="center">
+    <i>Você também pode me apoiar financeiramente via:</i>
+    <br/><br/>
+    <a href="https://nubank.com.br/pagar/gybk/zcFEaJl27t" target="_blank">
+        <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="Bradge PIX do Nubank" />
+    </a>
+</p>
+
 <br>
 
 ## GitHub Stats
