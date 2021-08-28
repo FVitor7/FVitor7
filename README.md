@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
-<p align="center">
+<p align="left">
     <i>Você também pode me apoiar financeiramente via:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/gybk/zcFEaJl27t" target="_blank">
