@@ -4,7 +4,7 @@
 
 <p align="left"> 
   
-  Hi! My name is Fábio Vitor, I'm 23 years old and I've been studying programming since I was 16 years.
+  Hi! My name is Fábio Vitor, I'm 24 years old and I've been studying programming since I was 16 years.
 </p>
 
 <p align="left">
