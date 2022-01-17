@@ -76,7 +76,7 @@
 
 ## GitHub Trophies
 
-![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&title=Stars,Followers,Commit,Repo,Issues&theme=dracula)
+![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
 ## Total Visitors
 
