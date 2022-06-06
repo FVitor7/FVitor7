@@ -24,17 +24,6 @@
   <a href="https://www.linkedin.com/in/fvitor7/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-black?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=5575992392907&text=Contato%20atrav%C3%A9s%20do%20github" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-black?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
-  
-  <a href="https://www.t.me/f_vitor7" alt="Telegram">
-  <img src="https://img.shields.io/badge/-Telegram-black?style=flat-square&labelColor=3b5998&logo=telegram&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-  
-  <a href="https://www.fb.com/fabiov7" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-black?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="https://www.instagram.com/f_vitor7" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-black?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
 
 <p align="left">
