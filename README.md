@@ -27,7 +27,7 @@
 </p>  
 
 <p align="left">
-    <i>Você também pode me apoiar financeiramente via:</i>
+    <i>To make me a donation:</i>
     <br/><br/>
     <a href="https://nubank.com.br/pagar/gybk/zcFEaJl27t" target="_blank">
         <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="Bradge PIX do Nubank" />
