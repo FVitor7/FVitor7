@@ -57,6 +57,6 @@
 
 ## رسم بياني
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
 
 ![Snake animation](https://github.com/FVitor7/FVitor7/blob/output/github-contribution-grid-snake.svg)
