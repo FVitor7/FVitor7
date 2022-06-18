@@ -25,14 +25,6 @@
 
 </p>  
 
-<p align="left">
-    <i>To make me a donation:</i>
-    <br/><br/>
-    <a href="https://nubank.com.br/pagar/gybk/zcFEaJl27t" target="_blank">
-        <img src="https://img.shields.io/badge/-PIX-820AD1?logo=nubank&style=for-the-badge&logoColor=white" alt="Bradge PIX do Nubank" />
-    </a>
-</p>
-
 <br>
 
 ## احصائيات جيثب
@@ -47,7 +39,7 @@
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
 
-## جوائز جيثب
+## GitHub Trophies
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
