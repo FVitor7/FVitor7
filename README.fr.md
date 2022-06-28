@@ -1,7 +1,5 @@
 # :octocat: Fabio Vitor
 
-<img src="https://camo.githubusercontent.com/c7165bc7d83b8b2834e9ae6fa50deafd15978958b0cbd4d00cbc77df90f0f55a/687474703a2f2f7777772e646174612d616e616c797374732e6f72672f75706c6f616466696c652f696d6167652f32303138303832362f32303138303832363036303231315f32393434322e676966" min-width="400px" max-width="400px" width="400px" align="right" alt="Gif Dev">
-
 <p align="left"> 
   
   Hi! My name is Fábio Vitor, I'm 24 years old and I've been studying programming since I was 16 years.
@@ -49,6 +47,6 @@
 
 ## Graphique
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)  
 
-![Snake animation](https://github.com/FVitor7/FVitor7/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/FVitor7/FVitor7/blob/output/github-contribution-grid-snake.svg)
