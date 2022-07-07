@@ -1,4 +1,4 @@
-# :octocat: Fábio Vitor
+# :octocat: 法比奧·維托
 
 <p align="left"> 
   
@@ -27,7 +27,7 @@
 
 ## GitHub 統計
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=20.5)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
+![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29.0)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
 
 ## 技術技能
 
@@ -37,7 +37,7 @@
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
 
-## GitHub Trophies
+## GitHub 獎杯
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
