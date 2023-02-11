@@ -43,7 +43,8 @@
 ![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=Kafka)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apachekafka)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=flat-square&logo=apollo-graphql)
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
