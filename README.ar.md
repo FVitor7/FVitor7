@@ -25,7 +25,7 @@
 
 <br>
 
-## احصائيات جيثب
+## GitHub Stats
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29.0)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
 
@@ -33,31 +33,28 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)ع
 
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)-->
 
-![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
-
-## GitHub Trophies
+## جوائز جيثب
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
-## Total Visitors
+## إجمالي عدد الزوار
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
 ## رسم بياني
 
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
 
 ![Snake animation](https://github.com/FVitor7/FVitor7/blob/output/github-contribution-grid-snake.svg)
