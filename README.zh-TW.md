@@ -11,7 +11,7 @@
 
 <br>
 
-## Follow me and Contact:
+## 關注我並聯繫：
 
 <p align="left">
 
@@ -33,10 +33,9 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
-![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=kafka)
+![Kafka](https://img.shields.io/badge/Kafka-black?style=flat-square&logo=kafka)
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
@@ -48,7 +47,7 @@
 
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)-->
 
-## GitHub Trophies
+## GitHub 獎杯
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
@@ -56,7 +55,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
-## Graph
+## 圖形
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
 
