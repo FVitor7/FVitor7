@@ -37,9 +37,10 @@
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
+![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 
