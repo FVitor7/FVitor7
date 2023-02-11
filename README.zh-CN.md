@@ -27,18 +27,21 @@
 
 ## GitHub 统计
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29.0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
+![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29.0)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
 
-## Tech Skills
+## 技术技能
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
+![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=kafka)
+
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
@@ -50,7 +53,7 @@
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
-## Total Visitors
+## 访客总数
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
