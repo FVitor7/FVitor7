@@ -11,7 +11,7 @@
 
 <br>
 
-## 關注我並聯繫：
+## Follow me and Contact:
 
 <p align="left">
 
@@ -29,11 +29,14 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&line_height=29.0)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
 
-## Tech Skills
+## 技術技能
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
-![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+
+![Kafka](https://img.shields.io/badge/-kafka-black?style=flat-square&logo=kafka)
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
@@ -45,7 +48,7 @@
 
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)-->
 
-## GitHub 獎杯
+## GitHub Trophies
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
@@ -53,7 +56,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
-## 圖形
+## Graph
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=FVitor7)
 
