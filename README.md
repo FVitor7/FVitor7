@@ -38,7 +38,7 @@
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
@@ -54,8 +54,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)3
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)-->
-![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
+
 
 
 ## GitHub Trophies
