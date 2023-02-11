@@ -41,7 +41,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)3
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
 
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)-->
 
