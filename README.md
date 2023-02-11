@@ -43,7 +43,7 @@
 ![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-![Kafka](https://img.shields.io/badge/Kafka-black?style=flat-square&logo=kafka)
+![Kafka](https://img.shields.io/badge/-Apache-Kafka-black?style=flat-square&logo=apacheKafka)
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)
 ![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
