@@ -1,4 +1,4 @@
-# :octocat: 法比奧維托
+# :octocat：法比奧·維托爾
 
 <p align="left"> 
   
@@ -11,7 +11,7 @@
 
 <br>
 
-## 關注我並聯繫：
+## 關注我並聯繫方式：
 
 <p align="left">
 
@@ -27,7 +27,9 @@
 
 ## GitHub 統計
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs&line_height=29.0)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
+![Github stats](https://github-readme-stats-git-master-fvitor7.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs=true&line_height=29.0)
+
+![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-master-fvitor7.vercel.app)/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&include_all_prs=true&langs_count=8)
 
 ## 技術技能
 
