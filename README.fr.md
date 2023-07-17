@@ -27,8 +27,9 @@
 
 ## Statistiques GitHub
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs&line_height=29.0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&langs_count=8)
+![Github stats](https://github-readme-stats-git-master-fvitor7.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs=true&line_height=29.0)
+
+![Top Langs]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-master-fvitor7.vercel.app)/api/top-langs/?username=FVitor7&layout=compact&theme=gruvbox&count_private=true&include_all_commits=true&include_all_prs=true&langs_count=8)
 
 ## Compétences techniques
 
@@ -38,11 +39,9 @@
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apachekafka)![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=flat-square&logo=apollo-graphql)
 
-![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)
-![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgresSQL-black?style=flat-square&logo=PostgreSQL)
 
 <!--![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MySQL)-->
 
