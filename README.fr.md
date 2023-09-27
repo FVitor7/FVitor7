@@ -1,19 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9466ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python+and+TypeScript;)](https://git.io/typing-svg)
-
-:octocat: Fabio Vitor
-
-<p align="left"> 
-  
-  Hi! My name is Fábio Vitor, I'm 24 years old and I've been studying programming since I was 16 years.
-</p>
-
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, PyCharm, PhotoShop and Figma.</strong>
-</p>
-
-<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python,+JavaScript+and+TypeScript;NestJS,+Django,+FastAPI+and+Flask;)](https://git.io/typing-svg)
 
 ## Suivez-moi et contactez :
 
@@ -39,7 +26,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
 
-![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apachekafka)![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=flat-square&logo=apollo-graphql)
 
@@ -57,7 +45,7 @@
 
 ![Github trophies](https://github-profile-trophy.vercel.app/?username=fvitor7&theme=dracula)
 
-## Nombre total de visiteurs
+## Total Visitors
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
