@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9466ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python,+JavaScript+&+TypeScript;NestJs,&+Express;Django,+Flask+&+FastAPI;ReactJS+and+NextJS;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python,+&+TypeScript;)](https://git.io/typing-svg)
 
 :ऑक्टोकैट: फैबियो विटोर
 
@@ -37,7 +37,8 @@
 
 ## तकनीकी कौशल
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
 
 ![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
@@ -51,7 +52,8 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 ## गिटहब ट्राफियां
 
