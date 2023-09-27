@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320"><path fill="#0099ff" fill-opacity="1" d="M0,128L80,112C160,96,320,64,480,85.3C640,107,800,181,960,197.3C1120,213,1280,171,1360,149.3L1440,128L1440,320L1360,320C1280,320,1120,320,960,320C800,320,640,320,480,320C320,320,160,320,80,320L0,320Z"></path></svg>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6756DA&height=120&section=header"/>
 
-# :octocat: 法比奧·維托爾
+:octocat: 法比奧·維托爾
 
 <p align="left"> 
   
