@@ -2,19 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python,+JavaScript+and+TypeScript;NestJS,+Django,+FastAPI+and+Flask;)](https://git.io/typing-svg)
 
-:octocat: 法比奥·维托尔
-
-<p align="left"> 
-  
-  Hi! My name is Fábio Vitor, I'm 24 years old and I've been studying programming since I was 16 years.
-</p>
-
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, PyCharm, PhotoShop and Figma.</strong>
-</p>
-
-<br>
-
 ## 关注我并联系方式：
 
 <p align="left">
