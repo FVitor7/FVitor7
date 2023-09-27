@@ -2,19 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python,+JavaScript+and+TypeScript;NestJS,+Django,+FastAPI+and+Flask;)](https://git.io/typing-svg)
 
-:ऑक्टोकैट: फैबियो विटोर
-
-<p align="left"> 
-  
-  Hi! My name is Fábio Vitor, I'm 24 years old and I've been studying programming since I was 16 years.
-</p>
-
-<p align="left">
-  💼 Tools: <strong>Visual Studio Code, PyCharm, PhotoShop and Figma.</strong>
-</p>
-
-<br>
-
 ## मुझे फ़ॉलो करें और संपर्क करें:
 
 <p align="left">
@@ -29,7 +16,7 @@
 
 <br>
 
-## गिटहब आँकड़े
+## GitHub Stats
 
 ![Github stats](https://github-readme-stats-git-master-fvitor7.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs=true&line_height=29.0)
 
@@ -37,7 +24,8 @@
 
 ## तकनीकी कौशल
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)![FastAPI](https://img.shields.io/badge/FastAPI-black?style=flat-square&logo=fastapi)
 
 ![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
