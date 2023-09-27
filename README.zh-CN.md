@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6756DA&height=120&section=header"/>
 
-:octocat: 法比奥·维托尔
+:octocat: Fábio Vitor
 
 <p align="left"> 
   
@@ -27,7 +27,7 @@
 
 <br>
 
-## GitHub 统计
+## GitHub Stats
 
 ![Github stats](https://github-readme-stats-git-master-fvitor7.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs=true&line_height=29.0)
 
@@ -59,4 +59,4 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fvitor7.fvitor7)
 
-![Snake animation](https://github.com/FVitor7/FVitor7/blob/output/github-contribution-grid-snake.svg)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6756DA&height=120&section=footer"/>
