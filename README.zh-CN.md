@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9466ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;Python,+JavaScript+and+TypeScript;NestJS,+Django,+FastAPI+and+Flask;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d361&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I%27m+F%C3%A1bio+Vitor+%F0%9F%91%8B;FullStack+and+FullCycle+Developer;)](https://git.io/typing-svg)
 
 ## 关注我并联系方式：
 
@@ -28,7 +28,8 @@
 
 ![Nodejs](https://img.shields.io/badge/NodeJs-black.svg?logo=node.js&logoColor=white)![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)![NestJS](https://img.shields.io/badge/-Nestjs-black?style=flat-square&logo=nestjs)![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apachekafka)![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=flat-square&logo=apollo-graphql)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-black?style=flat-square&logo=apachekafka)
+![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-black?style=flat-square&logo=apollo-graphql)
 
 ![NPM](https://img.shields.io/badge/NPM-black.svg?logo=npm)![Yarn](https://img.shields.io/badge/Yarn-black.svg?logo=yarn&logoColor=white)
 
