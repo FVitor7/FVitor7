@@ -21,8 +21,8 @@
 
 ## GitHub Stats
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-git-master-fvitor7.vercel.app/api?username=FVitor7&hide=issues&theme=gruvbox&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&include_all_prs=true&line_height=29.0" alt="Fábio Vitor github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-git-master-fvitor7.vercel.app/api/top-langs/?username=FVitor7&count_private=true&include_all_commits=true&include_all_prs=true&layout=compact&theme=gruvbox&langs_count=8" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=FVitor7&show_icons=true&count_private=true" alt="Fábio Vitor github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FVitor7&layout=compact&langs_count=10&count_private=true&include_all_commits=true&show_icons=true&theme=radical" />
 </div>
 
 
